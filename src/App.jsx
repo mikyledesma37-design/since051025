@@ -6178,7 +6178,7 @@ useEffect(() => {
   {/* FOTO ESCONDIDA */}
 
   <img
-    src={`${import.meta.env.BASE_URL}recuerdos/mi-complice.png`}
+    src="/since051025/recuerdos/mi-complice.png"
     alt="Nuestro recuerdo"
     style={{
       position: "absolute",
